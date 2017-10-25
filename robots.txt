@@ -1,0 +1,2 @@
+Sitemap: https://www.volcano.is/sitemap.xml
+User-agent: *

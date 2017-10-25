@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://www.volcano.is/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.volcano.is/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.volcano.is/tours/golden-circle-and-south-shore/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.volcano.is/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.volcano.is/tours/northern-lights-aurora-borealis/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.volcano.is/tours/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.volcano.is/tours/volcano-garden-reykjanes-peninsula/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.volcano.is/tours/volcano-eyjafjallajokull-eruption/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.volcano.is/ovissuferdir/</loc>
+  </url>
+  
+</urlset>
