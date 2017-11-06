@@ -33,5 +33,3 @@ Duration 6 hours  + bathing time.
 Pick-up direct from hotels in Reykjavik at 9:00.
 
 Pick-up from Keflavik and Blue lagoon at 08:20.
-
-Price 125.900 ISK/pp.
