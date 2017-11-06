@@ -1,22 +1,18 @@
-+++
-title = "Volcano Garden Reykjanes Peninsula"
-description = "luxury jeep tour into historic lava fields and volcanoes, lava, volcanoes, hot-springs, caving and the blue lagoon."
-keywords = ["Volcanoes","Hot-springs","Caving","Blue lagoon"]
-banner = "img/tours/volcano-garden-eldvorp_sydrigigar_5_edited_small.jpg"
-imgs = [
-    "img/tours/volcano-garden-blue_lagoon_2.jpg",
-    "img/tours/volcano-garden-picture_241.jpg",
-    "img/tours/volcano-garden-balki3.jpg",
-    "img/tours/volcano-garden-reykjanes_kort.jpg"
-]
-+++
-
+---
+title: Volcano Garden Reykjanes Peninsula
+description: >-
+  luxury jeep tour into historic lava fields and volcanoes, lava, volcanoes,
+  hot-springs, caving and the blue lagoon.
+banner: img/tours/volcano-garden-eldvorp_sydrigigar_5_edited_small.jpg
+---
 Lava, Volcanoes, Hot-springs, Caving and Blue lagoon.
 
 Local guided luxury jeep tour into historic lava fields and volcanoes. Seven colour hot springs, caving and the Blue lagoon. Reykjanes peninsula, the south west corner of Iceland, where the Atlantic rift rises from the ocean, with more than 100 volcano craters, 200 lava tubes.
 
 The Blue lagoon is the most visited attraction in Iceland, a spa with warm geothermal under-ground seawater rich of silica.
+
 <!--more-->
+
 It is possible to take bath in the Blue lagoon. 
 
 Notice: Book the entrance to the Blue lagoon separately at {{< bluelagoon >}}.
@@ -38,4 +34,4 @@ Pick-up direct from hotels in Reykjavik at 9:00.
 
 Pick-up from Keflavik and Blue lagoon at 08:20.
 
-Price 25.900 ISK/pp.
+Price 125.900 ISK/pp.
