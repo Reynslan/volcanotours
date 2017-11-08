@@ -5,10 +5,7 @@ description: >-
   hot-springs, caving and the blue lagoon.
 banner: volcano-garden-eldvorp_sydrigigar_5_edited_small.jpg
 imgs:
-  - image: /img/uploads/volcano-garden-blue_lagoon_2.jpg
   - image: /img/uploads/volcano-garden-picture_241.jpg
-  - image: /img/uploads/volcano-garden-balki3.jpg
-  - image: /img/uploads/volcano-garden-reykjanes_kort.jpg
 ---
 Lava, Volcanoes, Hot-springs, Caving and Blue lagoon.
 
