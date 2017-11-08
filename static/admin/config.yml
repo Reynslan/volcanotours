@@ -5,7 +5,7 @@ backend:
 publish_mode: editorial_workflow
 
 media_folder: "static/img/uploads" # Media files will be stored in the repo under static/img/uploads
-public_folder: "/img/uploads" # The src attribute for uploaded media will begin with /img/uploads
+public_folder: "img/uploads" # The src attribute for uploaded media will begin with /img/uploads
 
 collections:
   - name: "tours" # Used in routes, e.g., /admin/collections/blog
@@ -21,6 +21,5 @@ collections:
         name: "imgs"
         widget: "list"
         fields: 
-          - {label: "Description", name: "description", widget: "string"}
           - {label: "Image", name: "image", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
