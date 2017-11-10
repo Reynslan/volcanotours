@@ -17,9 +17,9 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Description", name: "description", widget: "string"}
       - {label: "Banner", name: "banner", widget: "image"}
-      - label: "Images"
-        name: "imgs"
-        widget: "list"
-        fields: 
-          - {label: "Image", name: "image", widget: "image"}
+      - {label: "Image1", name: "image1", widget: "image", required: false}
+      - {label: "Image2", name: "image2", widget: "image", required: false}
+      - {label: "Image3", name: "image3", widget: "image", required: false}
+      - {label: "Image4", name: "image4", widget: "image", required: false}
+      - {label: "Image5", name: "image5", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
