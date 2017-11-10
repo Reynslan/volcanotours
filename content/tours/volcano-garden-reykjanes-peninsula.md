@@ -4,8 +4,10 @@ description: >-
   luxury jeep tour into historic lava fields and volcanoes, lava, volcanoes,
   hot-springs, caving and the blue lagoon.
 banner: volcano-garden-eldvorp_sydrigigar_5_edited_small.jpg
-imgs:
-  - image: /img/uploads/volcano-garden-picture_241.jpg
+image1: /img/uploads/volcano-garden-blue_lagoon_2.jpg
+image2: /img/uploads/volcano-garden-picture_241.jpg
+image3: /img/uploads/volcano-garden-balki3.jpg
+image4: /img/uploads/volcano-garden-reykjanes_kort.jpg
 ---
 Lava, Volcanoes, Hot-springs, Caving and Blue lagoon.
 
