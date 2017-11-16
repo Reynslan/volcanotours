@@ -3,7 +3,7 @@ title: Volcano Garden Reykjanes Peninsula
 description: >-
   luxury jeep tour into historic lava fields and volcanoes, lava, volcanoes,
   hot-springs, caving and the blue lagoon.
-keywords: 
+keywords:
   - Volcanoes
   - Hot-springs
   - Caving
@@ -13,8 +13,6 @@ image1: /img/uploads/volcano-garden-blue_lagoon_2.jpg
 image2: /img/uploads/volcano-garden-picture_241.jpg
 image3: /img/uploads/volcano-garden-balki3.jpg
 image4: /img/uploads/volcano-garden-reykjanes_kort.jpg
-bokun_var: w2147_95e22e37_e83d_4c61_b4e6_8607769d0282
-bokun_activityId: 7818
 ---
 Lava, Volcanoes, Hot-springs, Caving and Blue lagoon.
 
