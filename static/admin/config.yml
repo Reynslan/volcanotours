@@ -24,3 +24,5 @@ collections:
       - {label: "Image4", name: "image4", widget: "image", required: false}
       - {label: "Image5", name: "image5", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Bokun var", name: "bokun_var", widget: "string", required: false}
+      - {label: "Bokun activityId", name: "bokun_activityId", widget: "string", required: false}
