@@ -1,15 +1,21 @@
-+++
-title = "Volcano Tour Eyjafjallajokull (E15) View After The Eruption"
-description = "Luxury jeep off road tour to one of Iceland's most scenic spots, a natural paradise, Þórsmörk"
-keywords = ["Volcanoes","Eyjafjallajökull","Seljalandsfoss","Waterfalls","Glaciers", "Þórsmörk"]
-banner = "img/tours/volcano-eyjafjallajokull-may1_2010.jpg"
-imgs = [
-    "img/tours/volcano-eyjafjallajokull-volcanotours_sma_24_5_2010_3199.jpg",
-    "img/tours/volcano-eyjafjallajokull-seljalandsfoss_2.jpg",
-    "img/tours/volcano-eyjafjallajokull-Gljufrabui-4.jpg",
-    "img/tours/volcano-eyjafjallajokull-eyjafjallajokull_map_ferd_mars_2011.jpg"
-]
-+++
+---
+title: "Volcano Tour Eyjafjallajokull (E15) View After The Eruption"
+description: "Luxury jeep off road tour to one of Iceland's most scenic spots, a natural paradise, Þórsmörk"
+keywords:
+  - Volcanoes
+  - Eyjafjallajökull
+  - Seljalandsfoss
+  - Waterfalls
+  - Glaciers
+  - Þórsmörk
+banner: /img/uploads/volcano-eyjafjallajokull-may1_2010.jpg
+image1: /img/uploads/volcano-eyjafjallajokull-volcanotours_sma_24_5_2010_3199.jpg
+image2: /img/uploads/volcano-eyjafjallajokull-seljalandsfoss_2.jpg
+image3: /img/uploads/volcano-eyjafjallajokull-Gljufrabui-4.jpg
+image4: /img/uploads/volcano-eyjafjallajokull-eyjafjallajokull_map_ferd_mars_2011.jpg
+bokun_var: w2147_39176876_cad0_44bd_974b_2168e18486ac
+bokun_activityId: 7820
+---
 
 Luxury jeep off road tour every day to one of Iceland's most scenic spots, it is only accessible by specially equipped vehicles with experienced drivers.
 
@@ -23,4 +29,4 @@ Duration 8 hours.
 
 Pick up direct from hotels at 10:00.
 
-Price 37.900 ISK/pp.
+{{< bokun >}}

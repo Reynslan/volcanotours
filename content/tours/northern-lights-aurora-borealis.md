@@ -1,14 +1,17 @@
-+++
-title = "Northern Lights - Aurora Borealis Tour"
-description = "find the world's greatest places to view the northern lights"
-keywords = ["Northern lights","Aurora Borealis","photographing"]
-banner = "img/tours/northern-lights-Nordurlj_Festi.jpg"
-imgs = [
-    "img/tours/northern-lights-auroras_volcanotours_sept2011.jpg",
-    "img/tours/northern-lights-img_3520.jpg",
-    "img/tours/northern-lights-img_1577.jpg"
-]
-+++
+---
+title: "Northern Lights - Aurora Borealis Tour"
+description: "find the world's greatest places to view the northern lights"
+keywords:
+  - Northern lights
+  - Aurora Borealis
+  - photographing
+banner: /img/uploads/northern-lights-Nordurlj_Festi.jpg
+image1: /img/uploads/orthern-lights-auroras_volcanotours_sept2011.jpg
+image2: /img/uploads/northern-lights-img_3520.jpg
+image3: /img/uploads/northern-lights-img_1577.jpg
+bokun_var: w2147_db489483_3d3d_467a_a96b_26bbb54906f4
+bokun_activityId: 7821
+---
 
 Northern lights photographing.
 
@@ -35,4 +38,4 @@ Pick up direct from hotels near Blue lagoon in Grindavik and Keflavik at 19:40.
 
 Tour length: 3-4 hours.
 
-Price: 19.900 ISK/pp.
+{{< bokun >}}
