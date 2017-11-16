@@ -6,7 +6,7 @@ keywords:
   - Aurora Borealis
   - photographing
 banner: /img/uploads/northern-lights-Nordurlj_Festi.jpg
-image1: /img/uploads/orthern-lights-auroras_volcanotours_sept2011.jpg
+image1: /img/uploads/northern-lights-auroras_volcanotours_sept2011.jpg
 image2: /img/uploads/northern-lights-img_3520.jpg
 image3: /img/uploads/northern-lights-img_1577.jpg
 bokun_var: w2147_db489483_3d3d_467a_a96b_26bbb54906f4
