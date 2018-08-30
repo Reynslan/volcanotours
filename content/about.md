@@ -1,6 +1,6 @@
 ---
 title: About Us - Family Company
-banner: img/about_flagghus_small.jpg
+banner: /img/uploads/about_flagghus_small.jpg
 image1: /img/uploads/about_erling_einarsson_volcano.is.jpg
 image2: /img/uploads/about_guddjorg_asgeirsdottir_volcano_is.jpg
 ---
