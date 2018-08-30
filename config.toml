@@ -185,3 +185,7 @@ paginate = 10
     enable = true
     title = "Volcano tours"
     subtitle = "Iceland travel guidance in English, Norsk og Dansk."
+    two_columns = false
+    three_columns = true
+    four_columns = false
+    
