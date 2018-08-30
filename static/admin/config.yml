@@ -41,6 +41,7 @@ collections:
           - {label: "Image2", name: "image2", widget: "image", required: false}
       - label: "Contact Page"
         name: "contact"
+        id: "contact"
         file: "content/contact.md"
         fields:
           - {label: Title, name: title, widget: string}

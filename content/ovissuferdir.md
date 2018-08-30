@@ -1,6 +1,13 @@
 ---
 title: Óvissuferðir
-banner: img/ovissuferdir/ruta.jpg
+description: >-
+  Óvissuferðir - Hellaskoðun, hverasúpa, prestakaffi, leikir, hákarlahjall,
+  danskennslu-harmonikkuball, kvöldverður o.fl. allt eftir þínum óskum.
+keywords:
+  - Óvissuferð
+  - Eldfjallaferðir
+  - Hellaskoðun
+banner: /img/uploads/ruta.jpg
 image1: /img/uploads/dans.jpg
 image2: /img/uploads/reykjanes_peninsula.jpg
 image3: /img/uploads/img_1347.jpg

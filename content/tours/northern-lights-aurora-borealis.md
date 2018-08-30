@@ -1,6 +1,6 @@
 ---
-title: "Northern Lights - Aurora Borealis Tour"
-description: "find the world's greatest places to view the northern lights"
+title: Northern Lights - Aurora Borealis Tour
+description: find the world's greatest places to view the northern lights
 keywords:
   - Northern lights
   - Aurora Borealis
