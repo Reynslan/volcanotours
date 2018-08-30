@@ -36,5 +36,23 @@ collections:
         fields:
           - {label: Title, name: title, widget: string}
           - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Banner", name: "banner", widget: "image"}
           - {label: "Image1", name: "image1", widget: "image", required: false}
           - {label: "Image2", name: "image2", widget: "image", required: false}
+      - label: "Contact Page"
+        name: "contact"
+        file: "content/contact.md"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - label: "Ovissuferdir Page"
+        name: "ovissuferdir"
+        file: "content/ovissuferdir.md"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Banner", name: "banner", widget: "image"}
+          - {label: "Image1", name: "image1", widget: "image", required: false}
+          - {label: "Image2", name: "image2", widget: "image", required: false}
+          - {label: "Image3", name: "image3", widget: "image", required: false}
+          - {label: "Image4", name: "image4", widget: "image", required: false}
