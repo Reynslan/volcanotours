@@ -1,8 +1,6 @@
 ---
 title: Óvissuferðir
-description: >-
-  Óvissuferðir - Hellaskoðun, hverasúpa, prestakaffi, leikir, hákarlahjall,
-  danskennslu-harmonikkuball, kvöldverður o.fl. allt eftir þínum óskum.
+description: "Óvissuferðir - Hellaskoðun, hverasúpa, prestakaffi, leikir, hákarlahjall, danskennslu-harmonikkuball, kvöldverður o.fl. allt eftir þínum óskum."
 keywords:
   - Óvissuferð
   - Eldfjallaferðir

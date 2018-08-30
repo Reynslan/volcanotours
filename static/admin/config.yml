@@ -2,6 +2,8 @@ backend:
   name: git-gateway
   branch: master # Branch to update (optional; defaults to master)
 
+publish_mode: editorial_workflow
+
 media_folder: "static/img/uploads" # Media files will be stored in the repo under static/img/uploads
 public_folder: "img/uploads" # The src attribute for uploaded media will begin with /img/uploads
 
@@ -35,22 +37,24 @@ collections:
         file: "content/about.md"
         fields:
           - {label: Title, name: title, widget: string}
+          - {label: "id", name: "id", widget: "hidden", default: "about"}
           - {label: "Body", name: "body", widget: "markdown"}
           - {label: "Banner", name: "banner", widget: "image"}
           - {label: "Image1", name: "image1", widget: "image", required: false}
           - {label: "Image2", name: "image2", widget: "image", required: false}
       - label: "Contact Page"
         name: "contact"
-        id: "contact"
         file: "content/contact.md"
         fields:
           - {label: Title, name: title, widget: string}
+          - {label: "id", name: "id", widget: "hidden", default: "contact"}
           - {label: "Body", name: "body", widget: "markdown"}
       - label: "Ovissuferdir Page"
         name: "ovissuferdir"
         file: "content/ovissuferdir.md"
         fields:
           - {label: Title, name: title, widget: string}
+          - {label: "id", name: "id", widget: "hidden", default: "ovissuferdir"}
           - {label: "Description", name: "description", widget: "string"}
           - {label: "Keywords", name: "keywords", widget: "list"}
           - {label: "Body", name: "body", widget: "markdown"}
