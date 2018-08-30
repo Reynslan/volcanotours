@@ -50,6 +50,8 @@ collections:
         file: "content/ovissuferdir.md"
         fields:
           - {label: Title, name: title, widget: string}
+          - {label: "Description", name: "description", widget: "string"}
+          - {label: "Keywords", name: "keywords", widget: "list"}
           - {label: "Body", name: "body", widget: "markdown"}
           - {label: "Banner", name: "banner", widget: "image"}
           - {label: "Image1", name: "image1", widget: "image", required: false}
