@@ -1,11 +1,9 @@
 +++
 title = "About Us - Family Company"
 id = "about"
-banner = "img/about_flagghus_small.jpg"
-imgs = [
-    "img/about_erling_einarsson_volcano.is.jpg",
-    "img/about_guddjorg_asgeirsdottir_volcano_is.jpg"
-]
+banner = "img/uploads/about_flagghus_small.jpg"
+image1 = "img/uploads/about_erling_einarsson_volcano.is.jpg",
+image2 = "img/uploads/about_guddjorg_asgeirsdottir_volcano_is.jpg"
 +++
 
 The origins of the community of Grindavik can be traced back to Einar G. Einarsson, which set up shop there in 1897. During that time the town population was only around 360. Fishing has for centuries been a crucial element in the survival of Grindavik's population. But fishing trips were often extremely dangerous. Men were frequently lost at sea and the catch wasn't always stable.
