@@ -1,6 +1,6 @@
 ---
-title: "Northern Lights - Aurora Borealis Tour"
-description: "find the world's greatest places to view the northern lights"
+title: Northern Lights - Aurora Borealis Tour
+description: find the world's greatest places to view the northern lights
 keywords:
   - Northern lights
   - Aurora Borealis
@@ -8,7 +8,7 @@ keywords:
 banner: /img/uploads/northern-lights-Nordurlj_Festi.jpg
 image1: /img/uploads/northern-lights-auroras_volcanotours_sept2011.jpg
 image2: /img/uploads/northern-lights-img_3520.jpg
-image3: /img/uploads/northern-lights-img_1577.jpg
+image3: /img/uploads/ruta.jpg
 bokun_var: w2147_db489483_3d3d_467a_a96b_26bbb54906f4
 bokun_activityId: 7821
 ---
