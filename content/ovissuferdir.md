@@ -1,16 +1,11 @@
-+++
-title = "Óvissuferðir"
-id = "ovissuferdir"
-description = "Óvissuferðir - Hellaskoðun, hverasúpa, prestakaffi, leikir, hákarlahjall, danskennslu-harmonikkuball, kvöldverður o.fl. allt eftir þínum óskum."
-keywords = ["Óvissuferð","Eldfjallaferðir","Hellaskoðun"]
-banner = "img/ovissuferdir/ruta.jpg"
-imgs = [
-    "img/ovissuferdir/dans.jpg",
-    "img/ovissuferdir/reykjanes_peninsula.jpg",
-    "img/ovissuferdir/img_1347.jpg",
-    "img/ovissuferdir/hrun_olli2.jpg"
-]
-+++
+---
+title: Óvissuferðir
+banner: img/ovissuferdir/ruta.jpg
+image1: /img/uploads/dans.jpg
+image2: /img/uploads/reykjanes_peninsula.jpg
+image3: /img/uploads/img_1347.jpg
+image4: /img/uploads/hrun_olli2.jpg
+---
 
 # Óvissuferð
 
