@@ -25,3 +25,16 @@ collections:
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Bokun var", name: "bokun_var", widget: "string", required: false}
       - {label: "Bokun activityId", name: "bokun_activityId", widget: "string", required: false}
+      
+  - label: "Pages"
+    name: "pages"
+    delete: true
+    files:
+      - label: "About Page"
+        name: "about"
+        file: "content/about.md"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Image1", name: "image1", widget: "image", required: false}
+          - {label: "Image2", name: "image2", widget: "image", required: false}
